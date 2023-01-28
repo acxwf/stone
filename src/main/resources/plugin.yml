@@ -1,0 +1,4 @@
+name: stone
+version: '${version}'
+main: com.github.acxwf.stone.StoneMain
+api-version: 1.19
